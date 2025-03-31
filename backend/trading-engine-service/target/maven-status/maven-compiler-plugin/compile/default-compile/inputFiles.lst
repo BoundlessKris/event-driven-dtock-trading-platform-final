@@ -1,0 +1,7 @@
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\TradingEngineServiceApplication.java
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\controller\TradeController.java
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\config\KafkaProducerConfig.java
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\service\TradeService.java
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\messaging\TradeProducer.java
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\model\TradeEntity.java
+C:\Projects\TradeSparkFinal\backend\trading-engine-service\src\main\java\com\trading\tradingengineservice\repository\TradeRepository.java

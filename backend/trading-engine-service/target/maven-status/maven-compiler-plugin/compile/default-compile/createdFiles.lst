@@ -1,0 +1,7 @@
+com\trading\tradingengineservice\TradingEngineServiceApplication.class
+com\trading\tradingengineservice\service\TradeService.class
+com\trading\tradingengineservice\repository\TradeRepository.class
+com\trading\tradingengineservice\controller\TradeController.class
+com\trading\tradingengineservice\model\TradeEntity.class
+com\trading\tradingengineservice\config\KafkaProducerConfig.class
+com\trading\tradingengineservice\messaging\TradeProducer.class

@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="trading-engine-service" />
         <module name="api-gateway" />
+        <module name="transaction-service" />
         <module name="stock-price-service" />
         <module name="common-library" />
         <module name="discovery-service" />
         <module name="notification-service" />
+        <module name="portfolio-service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -22,6 +25,7 @@
       <module name="notification-service" options="-parameters" />
       <module name="portfolio-service" options="-parameters" />
       <module name="stock-price-service" options="-parameters" />
+      <module name="trading-engine-service" options="-parameters" />
       <module name="transaction-service" options="-parameters" />
     </option>
   </component>

@@ -1,0 +1,6 @@
+com\trading\portfolioservice\model\Portfolio.class
+com\trading\portfolioservice\PortfolioServiceApplication.class
+com\trading\portfolioservice\service\PortfolioService.class
+com\trading\portfolioservice\messaging\TradeConsumer.class
+com\trading\portfolioservice\config\KafkaConsumerConfig.class
+com\trading\portfolioservice\repository\PortfolioRepository.class

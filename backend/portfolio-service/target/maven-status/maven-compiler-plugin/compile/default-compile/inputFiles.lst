@@ -1,0 +1,6 @@
+C:\Projects\TradeSparkFinal\backend\portfolio-service\src\main\java\com\trading\portfolioservice\model\Portfolio.java
+C:\Projects\TradeSparkFinal\backend\portfolio-service\src\main\java\com\trading\portfolioservice\service\PortfolioService.java
+C:\Projects\TradeSparkFinal\backend\portfolio-service\src\main\java\com\trading\portfolioservice\config\KafkaConsumerConfig.java
+C:\Projects\TradeSparkFinal\backend\portfolio-service\src\main\java\com\trading\portfolioservice\repository\PortfolioRepository.java
+C:\Projects\TradeSparkFinal\backend\portfolio-service\src\main\java\com\trading\portfolioservice\messaging\TradeConsumer.java
+C:\Projects\TradeSparkFinal\backend\portfolio-service\src\main\java\com\trading\portfolioservice\PortfolioServiceApplication.java

@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: notification-service
   kafka:
     bootstrap-servers: localhost:9092
     consumer:
@@ -10,6 +12,28 @@ spring:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
 
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: ankit245202@gmail.com
+    password: pkip xwrj pgkc rcun
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+          ssl:
+            trust: smtp.gmail.com
+
 
 server:
     port: 8084
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+
+

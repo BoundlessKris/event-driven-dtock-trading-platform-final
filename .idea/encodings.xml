@@ -5,6 +5,9 @@
     <file url="file://$PROJECT_DIR$/backend/common-library/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/backend/discovery-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/backend/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/portfolio-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/backend/stock-price-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/trading-engine-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backend/transaction-service/src/main/java" charset="UTF-8" />
   </component>
 </project>

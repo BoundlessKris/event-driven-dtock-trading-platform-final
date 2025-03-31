@@ -1,2 +1,6 @@
-C:\Users\ankit\Desktop\Domain Project\event-driven-stock-trading-platform-final\backend\transaction-service\src\main\java\com\trading\transactionservice\messaging\TradeConsumer.java
-C:\Users\ankit\Desktop\Domain Project\event-driven-stock-trading-platform-final\backend\transaction-service\src\main\java\com\trading\transactionservice\TransactionServiceApplication.java
+C:\Projects\TradeSparkFinal\backend\transaction-service\src\main\java\com\trading\transactionservice\TransactionServiceApplication.java
+C:\Projects\TradeSparkFinal\backend\transaction-service\src\main\java\com\trading\transactionservice\model\Transaction.java
+C:\Projects\TradeSparkFinal\backend\transaction-service\src\main\java\com\trading\transactionservice\service\TransactionService.java
+C:\Projects\TradeSparkFinal\backend\transaction-service\src\main\java\com\trading\transactionservice\repository\TransactionRepository.java
+C:\Projects\TradeSparkFinal\backend\transaction-service\src\main\java\com\trading\transactionservice\messaging\TradeConsumer.java
+C:\Projects\TradeSparkFinal\backend\transaction-service\src\main\java\com\trading\transactionservice\config\KafkaConsumerConfig.java

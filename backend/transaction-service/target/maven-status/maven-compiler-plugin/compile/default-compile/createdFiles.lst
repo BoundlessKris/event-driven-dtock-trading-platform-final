@@ -1,2 +1,6 @@
+com\trading\transactionservice\repository\TransactionRepository.class
+com\trading\transactionservice\config\KafkaConsumerConfig.class
+com\trading\transactionservice\service\TransactionService.class
+com\trading\transactionservice\model\Transaction.class
 com\trading\transactionservice\messaging\TradeConsumer.class
 com\trading\transactionservice\TransactionServiceApplication.class
